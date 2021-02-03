@@ -9,7 +9,7 @@ public class Main {
 	// write your code here
         System.out.println("hello world ! from github.com..");
         System.out.print("Sandesh Lamsal");
-        System.out.println("Branch 1 code");
+        System.out.println("Master Branch !!");
 	//Branch1
 	
     }
